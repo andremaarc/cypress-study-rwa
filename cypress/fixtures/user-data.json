@@ -1,0 +1,17 @@
+{
+    "defaultUser": {
+        "username": "Heath93",
+        "password": "s3cret"
+    },
+    "newUser": {
+        "username": "usertest",
+        "password": "s3cret"
+    },
+    "registerUser": {
+        "username": "Ruthie Prosacco"
+    },
+    "unregisteredUser": {
+        "username": "test",
+        "password": "test"
+    }
+}
