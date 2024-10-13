@@ -1,5 +1,5 @@
 import LoginPage from '../pages/loginPage.js'
-import SignUpPage from '../pages/SignUpPage.js'
+import SignUpPage from '../pages/signUpPage.js'
 
 const loginPage = new LoginPage()
 const signUpPage = new SignUpPage
