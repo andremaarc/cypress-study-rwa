@@ -54,28 +54,25 @@ O projeto está organizado da seguinte forma:
 ## Pré-requisitos
 
 - Node.js (v12 ou superior)
-- Cypress instalado no projeto
 
 ## Como Executar os Testes
 
-1. Clone o repositório do cypress-io para sua máquina local:
-   ```bash
-   git clone https://github.com/cypress-io/cypress-realworld-app
-   ```
-
-2. Instale as dependências do projeto:
+1. Instale as dependências do projeto:
    ```bash
    npm i
    ```
 
-3. Para executar os testes em modo interativo via Test Runner do Cypress:
+2. Para executar os testes em modo interativo via Test Runner do Cypress:
    ```bash
    npx cypress open
    ```
-4. Para executar todos os testes em modo headless (sem interface gráfica):
+3. Para executar todos os testes em modo headless (sem interface gráfica):
    ```bash
    npx cypress run
    ```
+
+### Observação:
+Antes de rodar os testes, certifique-se de que o **Cypress Real World App** está rodando localmente. Para isso, siga as instruções no [repositório oficial](https://github.com/cypress-io/cypress-realworld-app) do projeto.
 
 ## Contato
 
